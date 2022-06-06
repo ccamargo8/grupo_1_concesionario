@@ -13,3 +13,6 @@ Nuestro servicio está enfocado en aquellas personas que desean vender o comprar
 Carlos Medina: Administrador de Empresas, Me gustan los videojuegos y ver series y curioso por la tecnologia.   
 Edgardo Angulo: Contador Público, especialista en Finanzas, Me gusta praticar billar.
 Carlos Camargo: Ingeniero Industrial, me gustan los juegos en Linea y estoy aprendiendo desarrollo de software para usar mis conociniemtos en una trabajo alterno. 
+
+## Referencias: 
+https://somerauto.com.co
