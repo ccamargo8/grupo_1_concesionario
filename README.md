@@ -16,3 +16,18 @@ Carlos Camargo: Ingeniero Industrial, me gustan los juegos en Linea y estoy apre
 
 ## Referencias: 
 https://somerauto.com.co
+
+es una empresa del sector automotriz, comercialización de vehículos de marca MAZDA, repuestos genuinos y servicios de mantenimiento en mecánica,en Colombia, la presentación de su pagina de internet es elegante y con diversas funcionalidades para que el cliente interactue y solucione dudas de la compra.
+
+https://www.automontana.com/mazda-3/?gclid=CjwKCAjwy_aUBhACEiwA2IHHQMWaAPoBct2sQlZNpnXo8ekkfZLgV9EJnE4RBDOi0Z8TEpM26Vs9jhoCA1EQAvD_BwE
+Muy elenate y buena distribución de botones y menus. Brindan clara informaciónde los vehículos en venta.
+
+https://carros.tucarro.com.co/concesionario/
+Amplia catalogo de carros usados, que nos da otra perspectiva de como ofrecer variedad atraves de un marketplace.
+La cpbertura al usuario final es más amplia.
+
+https://www.autolartechevrolet.co/
+Más dinamica, tienen mayor numero de imagenes invita a navegar en la pagina.
+
+https://vehiculosdelcamino.com/
+Inserta videos de introducción a sus vehículos, que son de diferentes marcas. Tiene baners para opciones de pago en linea.
